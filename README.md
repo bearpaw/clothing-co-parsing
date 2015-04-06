@@ -1,5 +1,6 @@
 Clothing Co-Parsing (CCP) Dataset
 =================================
+![CCP example](https://raw.githubusercontent.com/bearpaw/clothing-co-parsing/master/example.jpg)
 
 Clothing Co-Parsing (CCP) dataset is a new clothing database including elaborately annotated clothing items.
 
