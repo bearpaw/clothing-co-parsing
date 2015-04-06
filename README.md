@@ -41,7 +41,7 @@ Each annotation is saved in `annotations/pixel-level` as a matlab `.mat` file, w
 Citation
 --------
 If you make use of the Clothing Co-Parsing (CCP) data, please cite the following reference in any publications:
-
+```bib
 @inproceedings{yang2014clothing,
   title={Clothing Co-Parsing by Joint Image Segmentation and Labeling},
   author={Yang, Wei and Luo, Ping and Lin, Liang}
@@ -49,3 +49,4 @@ If you make use of the Clothing Co-Parsing (CCP) data, please cite the following
   year={2013},
   organization={IEEE}
 }
+```
