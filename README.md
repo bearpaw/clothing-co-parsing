@@ -11,6 +11,8 @@ Clothing Co-Parsing (CCP) dataset is a new clothing database including elaborate
 
 Feel free to contact `platero.yang (at) gmail.com` should you have any suggestions or questions.
 
+Please visit the [project page](http://vision.sysu.edu.cn/projects/clothing-co-parsing/) for more information.
+
 Files
 -----
 Root directory contains following files and folders:
